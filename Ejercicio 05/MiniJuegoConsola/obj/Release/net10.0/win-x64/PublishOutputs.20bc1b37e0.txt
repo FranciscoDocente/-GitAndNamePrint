@@ -1,0 +1,2 @@
+c:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Release\net10.0\win-x64\publish\MiniJuegoConsola.pdb
+c:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Release\net10.0\win-x64\publish\MiniJuegoConsola.exe

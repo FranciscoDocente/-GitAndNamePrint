@@ -1,0 +1,15 @@
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Debug\net10.0\MiniJuegoConsola.exe
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Debug\net10.0\MiniJuegoConsola.deps.json
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Debug\net10.0\MiniJuegoConsola.runtimeconfig.json
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Debug\net10.0\MiniJuegoConsola.dll
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\bin\Debug\net10.0\MiniJuegoConsola.pdb
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.AssemblyInfoInputs.cache
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.AssemblyInfo.cs
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.csproj.CoreCompileInputs.cache
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.sourcelink.json
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.dll
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\refint\MiniJuegoConsola.dll
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.pdb
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\MiniJuegoConsola.genruntimeconfig.cache
+C:\Users\FAMFE-Portatil\Documents\FPS\ED\Ejercicio 05\MiniJuegoConsola\obj\Debug\net10.0\ref\MiniJuegoConsola.dll
